@@ -1,14 +1,6 @@
 # Architecting Digital DNA: Animoca Minds prompting techniques
 
-
-
 This guide describes how to engineer **DNA** for Animoca Minds: the core system prompt (foundational instruction set) that shapes a Mind’s personality, behavior, reasoning style, role, boundaries, and how it uses tools and memory.
-
----
-
-## Why some Minds are “smarter”
-
-The deck contrasts shallow agent setup with **depth of identity and specialization**. Labels like “AI Agent 1…6” without rich DNA behave like generic assistants; historically we associate **named, specialized genius** with sustained excellence. The point for product use: **your Mind’s written DNA is what makes it reliably sharp**, not the model alone.
 
 ---
 
@@ -209,14 +201,7 @@ Use for **refinement** and evolution:
 
 ---
 
-## Source materials
-
-- **[Full slide deck (PowerPoint)](assets/Architecting Digital DNA_ Animoca Minds Prompting Techniques (20260322).pptx)** — open in PowerPoint or Keynote, or use **File → Export** to save each slide as PNG/JPEG. If you add files under `assets/slides/` (for example `01-title.png`, `02-why-minds.png`, …), you can embed them next to the matching section with `![description](assets/slides/01-title.png)`.
-
----
-
 ## Related links
 
-- [Animoca Minds](https://animocaminds.ai)  
-- Repository conventions for posts and agents: [AGENTS.md](../AGENTS.md)
+- [Animoca Minds](https://animocaminds.ai)
 
